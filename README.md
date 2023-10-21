@@ -22,7 +22,7 @@ Let's roll up our sleeves and get started!
 # Installation
 
 You can view a rendered version of the notebook [here](youtube.ipynb).  
-Or a pdf version of the notebook [here]()
+Or a pdf version of the notebook [here](youtube.pdf)
 
 ### Prerequisites
 - **Python:** Ensure that Python is installed on your machine. You can download it from [python.org](https://www.python.org/).
@@ -54,11 +54,11 @@ Or a pdf version of the notebook [here]()
 It is recommended to `Run all cells` as this ensures all cells to execute properly. 
 
 # Structure
-1. **SO-2023-survey.ipynb:** Jupyter notebook containing 
+1. [**youtube.ipynb:**](youtube.ipynb) Jupyter notebook containing all the steps of the data cleaning process
 
-2. **SO-2023-survey.pdf** Pdf rendition of the aforementioned jupyter notebook.
+2. [**youtube.pdf**](youtube.pdf) Pdf rendition of the aforementioned jupyter notebook.
 
-3. **Global YouTube Statistics.csv** Csv file of the original dataset.
+3. [**Global YouTube Statistics.csv**](https://github.com/YKarsten/Clean-and-tranform/blob/main/Global%20YouTube%20Statistics.csv) csv file of the original dataset.
 
 4. **README.md:** Instructions on how to get started, install dependencies, and use the Jupyter notebook.
 
