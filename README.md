@@ -62,6 +62,8 @@ It is recommended to `Run all cells` as this ensures all cells to execute proper
 
 4. **README.md:** Instructions on how to get started, install dependencies, and use the Jupyter notebook.
 
+5. **license.txt** Text file listing the MIT open-source software license 
+
 
 # Dependencies
 - **Python:** Version 3.10.12
