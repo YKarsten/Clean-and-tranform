@@ -19,5 +19,57 @@ Throughout this project, I will tackle a variety of data issues, including missi
 
 Let's roll up our sleeves and get started!
 
+# Installation
+
+You can view a rendered version of the notebook [here](youtube.ipynb).  
+Or a pdf version of the notebook [here]()
+
+### Prerequisites
+- **Python:** Ensure that Python is installed on your machine. You can download it from [python.org](https://www.python.org/).
+- **Jupyter Lab:** Install Jupyter Lab using the following command in your terminal or command prompt:
+  ```bash
+  pip install jupyter lab
+- **External Libraries:** Use `pip install` for library installation.
+  ```bash
+  pip install pandas numpy matplotlib 
+
+### Steps  
+1. **Download:** Download the Jupyter notebook file [SO-2023-survey.ipynb](SO-2023-survey.ipynb) from this repository to your local machine.
+
+2. **Run Jupyter Lab Server:**
+  - Open a terminal or command prompt.
+  - Navigate to the directory where you saved the notebook file.
+  - Run the following command:
+    ```bash
+    jupyter lab
+
+3. **Access the notebook:**
+  - Open your web browser and go to the URL displayed in the terminal.
+  - Navigate to the notebook file and click on it to open.
+    
+4. **Interact with the Notebook:**
+  - Execute code cells using the "Run" button or by pressing Shift + Enter.
+
+# Usage
+It is recommended to `Run all cells` as this ensures all cells to execute properly. 
+
+# Structure
+1. **SO-2023-survey.ipynb:** Jupyter notebook containing 
+
+2. **SO-2023-survey.pdf** Pdf rendition of the aforementioned jupyter notebook.
+
+3. **Global YouTube Statistics.csv** Csv file of the original dataset.
+
+4. **README.md:** Instructions on how to get started, install dependencies, and use the Jupyter notebook.
+
+
+# Dependencies
+- **Python:** Version 3.10.12
+- **Jupyter Lab:** Version 4.0.5
+- **Libraries:**
+  - NumPy: Version 1.25.2
+  - pandas: Version 2.0.3
+  - matplotlib: Version 3.7.2
+ 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](license.txt) file for details.
